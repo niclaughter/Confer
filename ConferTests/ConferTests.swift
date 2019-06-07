@@ -1,8 +1,6 @@
 //
 //  ConferTests.swift
 //  ConferTests
-//
-//  Created by Nic Laughter on 6/6/19.
 //  Copyright © 2019 tech.gaire.confer. All rights reserved.
 //
 
@@ -30,5 +28,4 @@ class ConferTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-
 }
